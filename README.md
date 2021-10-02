@@ -8,6 +8,6 @@ Steps to run this Program on Android:
     pkg install git -y
     pkg install python3 -y
     Git Clone https://github.com/AbdulShan/Coin_Flip
-    cd Mind-Reader
-    python Magic.py
+    cd Coin_Flip
+    python Coin_Flip.py
 5.Have fun!!
